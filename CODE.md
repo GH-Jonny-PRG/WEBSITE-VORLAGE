@@ -94,7 +94,10 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
         </div>
 
     <br><br>
-    made by Jannick mit html code! 
+    made by Jannick with html code! <br>
+    <h3> 
+    <a href="https://github.com/GH-Jonny-PRG/WEBSITE-VORLAGE.git">GITHUB</a>
+    </h3>
     
 </body>
 
