@@ -18,7 +18,7 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
 
 <style>
 
-     body {
+body {
         font-family: 'Sigmar', cursive;
         background-color:#5b63c9e5;
         padding-left: 100px;
@@ -26,17 +26,14 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
          }
 
            .BILD-TITEL {
-             width: 100%; 
+             width: 50%; 
+             padding-left: 500px;
         }
  
            .headline {
              color: lime;
         }
-           .FOTO-CONTAINER {
-             background-color: rgb(85, 247, 247);
-             padding: 10px;
-        }
-
+          
            .navbar {
              display: flex;
              justify-content: space-between;
@@ -66,7 +63,7 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
         <div>
             
             <h2>
-                <a href="https://smplegacy.webador.de">--->PATNERSERVER SMP-LEGACY<---</a>
+                <a href="https://Google.de">--->Google<---</a>
             </h2>
         
         </div>
@@ -90,7 +87,7 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
             
 
          <div class="FOTO-CONTAINER"> 
-         <img class="BILD-TITEL" src="SUSI.jpg">
+         <img class="BILD-TITEL" src="ghost.png">
         </div>
 
     <br><br>
