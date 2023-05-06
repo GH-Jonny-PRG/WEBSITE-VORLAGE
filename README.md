@@ -1,8 +1,8 @@
-THIS IS THE CODE 
------------------------------------
-START COPY ZONE
------------------------------------
-
+<div class="navbar">
+        
+---------------------
+ START COPY ZONE       
+---------------------
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -100,6 +100,6 @@ START COPY ZONE
 
 
 </html>
-  ---------------------
-  END COPY ZONE
-  ---------------------
+---------------------
+ END COPY ZONE       
+---------------------
