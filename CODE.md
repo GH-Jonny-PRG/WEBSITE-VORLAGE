@@ -1,5 +1,5 @@
 TIPPE AUF <> UM DEN CODE ZU SEHEN!
-        Tippe zeige datai auf dem handy
+        Tippe zeige rohe datai auf dem handy
 ---------------------
  START COPY ZONE       
 ---------------------
