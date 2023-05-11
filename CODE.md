@@ -1,5 +1,6 @@
 TIPPE AUF <> UM DEN CODE ZU SEHEN!
         Tippe zeige rohe datai auf dem handy
+        Tippe raw auf IPad 
 ---------------------
  START COPY ZONE       
 ---------------------
