@@ -10,7 +10,7 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JONNY-SERVER</title>
+    <title>THE ONLY DJ! :)</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Sigmar&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@ TIPPE AUF <> UM DEN CODE ZU SEHEN!
 
 body {
         font-family: 'Sigmar', cursive;
-        background-color:#5b63c9e5;
+        background-color:#444444;
         padding-left: 100px;
         padding-right: 100px;
          }
@@ -32,7 +32,7 @@ body {
         }
  
            .headline {
-             color: lime;
+             color: white;
         }
           
            .navbar {
@@ -42,8 +42,12 @@ body {
         }
 
             .Websiteentseht {
-             color: darkred;    
+             color: white;    
         }
+
+	   .mcip {
+	     color: white;
+	}
             
            
        
@@ -57,7 +61,7 @@ body {
 
         
             <h1 class="headline">
-               JONNY-SERVER.de
+               DJJ-OFFICIAL
             </h1>
 
 
@@ -77,24 +81,21 @@ body {
 
         <div class="Websiteentseht">Hier ENTSTEHT eine Website...<br>
         </div>
-            <br><br><br>
+            <br><br>
 
-    
-
-     ip: CITIBUILD_JONNY.aternos.me
-     <br><br>
+        <div class="mcip">mc-ip: soon...<br>
+	</div>
+	    <br><br>
              
            
             
 
-         <div class="FOTO-CONTAINER"> 
-         <img class="BILD-TITEL" src="ghost.png">
-        </div>
+         
 
-    <br><br>
-    made by Jannick with html code! <br>
-    <h3> 
-    <a href="https://github.com/GH-Jonny-PRG/WEBSITE-VORLAGE.git">GITHUB</a>
+    <br><br><h3>
+    🔊----> <a href="https://discord.gg/JbQVjRE893">join my Discord!</a><br>
+  
+    📱----> <a href="https://github.com/GH-Jonny-PRG/WEBSITE-VORLAGE.git">GITHUB</a>
     </h3>
     
 </body>
